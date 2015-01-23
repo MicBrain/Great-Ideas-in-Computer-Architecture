@@ -3,7 +3,7 @@
 ### Table of Content
 
 1. [Course Info] [web1]
-2. Part 1 - General
+2. Great Ideas of Computer Architecture
 3. References
 
 [web1]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Introduction
