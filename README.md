@@ -1,4 +1,4 @@
-# Great Ideas in Computer Architecture.
+# Great Ideas in Computer Architecture
 
 ### Table of Content
 
