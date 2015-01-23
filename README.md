@@ -2,7 +2,7 @@
 
 ### Table of Content
 
-1. [Introduction] [web1]
+1. [Course Info] [web1]
 2. Part 1 - General
 3. References
 
