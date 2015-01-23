@@ -6,7 +6,7 @@
 2. Great Ideas of Computer Architecture
   - [6 Great Ideas of Computer Architecture][web2]
   - [Representing Instructions in the Computer][web3]
-3. 
+3. Intro to C programming language
 4. References
 
 [web1]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Introduction
