@@ -11,7 +11,7 @@
   - [History of C programming language][web5]
   - [Properties of C][web6]
   - Helpful resources
-4. References
+4. General References
 
 [web1]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Introduction
 [web2]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/6-Great-Ideas-of-Computer-Architecture
