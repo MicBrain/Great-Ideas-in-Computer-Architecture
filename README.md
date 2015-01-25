@@ -9,7 +9,7 @@
   - [IEC prefixing system][web4]
 3. Intro to C programming language
   - [History of C][web5]
-  - 
+  - First
 4. References
 
 [web1]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Introduction
