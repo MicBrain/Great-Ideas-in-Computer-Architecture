@@ -8,7 +8,7 @@
   - [Representing Instructions in the Computer][web3]
   - [IEC prefixing system][web4]
 3. Intro to C programming language
-  - [History of C][web5]
+  - [History of C programming language][web5]
   - First
 4. References
 
