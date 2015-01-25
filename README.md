@@ -8,8 +8,8 @@
   - [Representing Instructions in the Computer][web3]
   - [IEC prefixing system][web4]
 3. Intro to C programming language
-  - History of C programming language
-  - 
+  * History of C programming language
+  * 
 
 4. References
 
