@@ -7,9 +7,9 @@
   - [6 Great Ideas of Computer Architecture][web2]
   - [Representing Instructions in the Computer][web3]
   - [IEC prefixing system][web4]
-3. Great Ideas of Computer Architecture
-  - General Intro
-  - First
+3. Intro to C programming language
+  - History of C
+  - 
 4. References
 
 [web1]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Introduction
