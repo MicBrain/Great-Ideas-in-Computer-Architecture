@@ -10,7 +10,7 @@
 3. Intro to C programming language
   - [History of C programming language][web5]
   - [Properties of C][web6]
-  - Helpful resources
+  - [Helpful resources]
 4. General References
 
 [web1]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Introduction
