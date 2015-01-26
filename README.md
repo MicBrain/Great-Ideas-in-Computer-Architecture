@@ -11,7 +11,8 @@
   - [History of C programming language][web5]
   - [Properties of C][web6]
   - [Helpful resources for C][web7]
-4. General References
+4. Intro to Assembly Language
+5. General References
 
 [web1]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Introduction
 [web2]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/6-Great-Ideas-of-Computer-Architecture
