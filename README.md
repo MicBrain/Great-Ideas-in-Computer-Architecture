@@ -7,7 +7,7 @@
   - [6 Great Ideas of Computer Architecture][web2]
   - [Representing Instructions in the Computer][web3]
   - [IEC prefixing system][web4]
-  - [Checklist 1]
+  - [Checklist 1][web8]
 3. Intro to C programming language
   - [History of C programming language][web5]
   - [Properties of C][web6]
@@ -23,5 +23,6 @@
 [web5]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/History-of-C-Programming-language
 [web6]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Properties-of-C
 [web7]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Helpful-resources-for-C
+[web8]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/CheckList_1
 
 
