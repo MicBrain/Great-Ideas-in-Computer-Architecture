@@ -24,3 +24,4 @@
 [web6]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Properties-of-C
 [web7]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Helpful-resources-for-C
 [web8]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/CheckList_1
+
