@@ -12,6 +12,7 @@
   - [History of C programming language][web5]
   - [Properties of C][web6]
   - [Helpful resources for C][web7]
+  - Checklist 2
 4. Intro to Assembly Language
 5. General References
 
