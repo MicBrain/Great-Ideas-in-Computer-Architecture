@@ -13,7 +13,7 @@
   - [Properties of C][web6]
   - [Helpful resources for C][web7]
   - [Checklist 2][web9]
-4. Intro to Assembly Language
+4. Introduction to Assembly Language
   - [Introduction to MIPS][web10]
   - [Ideas from MIPS][web11]
   - [Underlying Principles of Hardware Design][web12]
