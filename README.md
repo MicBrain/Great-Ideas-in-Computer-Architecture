@@ -30,4 +30,4 @@
 [web9]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/CheckList_2
 [web10]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Introduction-to-MIPS
 [web11]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Ideas-from-MIPS
-[web12]: 
+[web12]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Underlying-Principles-of-Hardware-Design
