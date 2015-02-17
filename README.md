@@ -8,7 +8,7 @@
   - [Representing Instructions in the Computer][web3]
   - [IEC prefixing system][web4]
   - [Checklist 1][web8]
-3. Intro to C programming language
+3. Introduction to C programming language
   - [History of C programming language][web5]
   - [Properties of C][web6]
   - [Helpful resources for C][web7]
