@@ -14,7 +14,7 @@
   - [Helpful resources for C][web7]
   - [Checklist 2][web9]
 4. Intro to Assembly Language
-  - [Introduction to MIPS]
+  - [Introduction to MIPS][]
 5. General References
 
 [web1]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Introduction
