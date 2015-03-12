@@ -17,7 +17,7 @@
   - [Introduction to MIPS][web10]
   - [Ideas from MIPS][web11]
   - [Underlying Principles of Hardware Design][web12]
-5. Introduction to Instruction Set Architecture
+5. Below Abstraction Barrier
   - [Introduction to Synchronous Digital Systems][web13]
 5. General References
 
