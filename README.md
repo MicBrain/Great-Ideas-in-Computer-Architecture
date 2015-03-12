@@ -18,7 +18,7 @@
   - [Ideas from MIPS][web11]
   - [Underlying Principles of Hardware Design][web12]
 5. Introduction to Instruction Set Architecture
-  - Introduction to Synchronous Digital Systems
+  - [Introduction to Synchronous Digital Systems]
 5. General References
 
 [web1]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Introduction
