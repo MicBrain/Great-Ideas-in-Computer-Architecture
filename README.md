@@ -37,4 +37,4 @@
 [web12]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Underlying-Principles-of-Hardware-Design
 [web13]: http://inst.eecs.berkeley.edu/~cs61c/resources/sds.pdf
 [web14]: http://inst.eecs.berkeley.edu/~cs61c/resources/boolean.pdf
-[web15]: 
+[web15]: http://inst.eecs.berkeley.edu/~cs61c/resources/blocks.pdf
