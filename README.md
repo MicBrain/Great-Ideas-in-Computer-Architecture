@@ -19,6 +19,7 @@
   - [Underlying Principles of Hardware Design][web12]
 5. Below Abstraction Barrier
   - [Introduction to Synchronous Digital Systems][web13]
+  - Representations of Combinational Logic Circuits
 5. General References
 
 [web1]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Introduction
