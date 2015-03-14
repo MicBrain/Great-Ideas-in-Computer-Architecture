@@ -22,7 +22,7 @@
   - [Representations of Combinational Logic Circuits][web14]
   - [Combinational Logic Blocks][web15]
 6. Blah
-5. General References
+7. General References
 
 [web1]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Introduction
 [web2]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/6-Great-Ideas-of-Computer-Architecture
