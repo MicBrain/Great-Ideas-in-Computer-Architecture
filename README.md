@@ -17,11 +17,11 @@
   - [Introduction to MIPS][web10]
   - [Ideas from MIPS][web11]
   - [Underlying Principles of Hardware Design][web12]
-5. Below Abstraction Barrier
+5. Below Abstraction Barrier: Machine	Interpretation
   - [Introduction to Synchronous Digital Systems][web13]
   - [Representations of Combinational Logic Circuits][web14]
   - [Combinational Logic Blocks][web15]
-6. Blah
+6. Below Abstraction Barrier
 7. General References
 
 [web1]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Introduction
