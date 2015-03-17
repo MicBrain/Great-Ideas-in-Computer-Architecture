@@ -21,7 +21,7 @@
   - [Introduction to Synchronous Digital Systems][web13]
   - [Representations of Combinational Logic Circuits][web14]
   - [Combinational Logic Blocks][web15]
-6. Below Abstraction Barrier: Architecture Implementation	
+6. Below Abstraction Barrier: The Basic of Logic Design
   - Logic Gates
 7. General References
 
