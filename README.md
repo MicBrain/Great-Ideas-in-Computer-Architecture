@@ -22,7 +22,7 @@
   - [Representations of Combinational Logic Circuits][web14]
   - [Combinational Logic Blocks][web15]
 6. Below Abstraction Barrier: Architecture Implementation	
-  - Logic
+  - Logic Gates
 7. General References
 
 [web1]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Introduction
