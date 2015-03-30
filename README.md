@@ -24,6 +24,7 @@
 6. Below Abstraction Barrier: The Basic of Logic Design
   - Gates, Truth Tables, and Logic Equations
   - [Representations of Combinational Logic Circuits][web17]
+  - Checklist 3
 7. General References
 
 [web1]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/Introduction
