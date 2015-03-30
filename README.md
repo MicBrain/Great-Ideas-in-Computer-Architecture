@@ -49,3 +49,4 @@
 [web17]: http://inst.eecs.berkeley.edu/~cs61c/resources/boolean.pdf
 [web18]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/CheckList_3
 [web19]: http://inst.eecs.berkeley.edu/~cs61c/resources/blocks.pdf
+[web20]: http://inst.eecs.berkeley.edu/~cs61c/resources/state.pdf
