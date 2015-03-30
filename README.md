@@ -26,6 +26,7 @@
   - [Representations of Combinational Logic Circuits][web17]
   - [Combinational Logic Blocks][web19]
   - [Introduction to Synchronous Digital Systems][web16]
+  - State Elements: Circuits That Remember
   - [Checklist 3][web18]
 7. General References
 
