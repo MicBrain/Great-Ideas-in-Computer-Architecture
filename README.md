@@ -24,7 +24,7 @@
 6. Below Abstraction Barrier: The Basic of Logic Design
   - Gates, Truth Tables, and Logic Equations
   - [Representations of Combinational Logic Circuits][web17]
-  - Introduction to Synchronous Digital Systems
+  - [Introduction to Synchronous Digital Systems][web16]
   - [Checklist 3][web18]
 7. General References
 
@@ -43,5 +43,6 @@
 [web13]: http://inst.eecs.berkeley.edu/~cs61c/resources/sds.pdf
 [web14]: http://inst.eecs.berkeley.edu/~cs61c/resources/boolean.pdf
 [web15]: http://inst.eecs.berkeley.edu/~cs61c/resources/blocks.pdf
+[web16]: http://inst.eecs.berkeley.edu/~cs61c/resources/sds.pdf
 [web17]: http://inst.eecs.berkeley.edu/~cs61c/resources/boolean.pdf
 [web18]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/CheckList_3
