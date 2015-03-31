@@ -22,7 +22,7 @@
   - [Representations of Combinational Logic Circuits][web14]
   - [Combinational Logic Blocks][web15]
 6. Below Abstraction Barrier: The Basic of Logic Design
-  - Gates, Truth Tables, and Logic Equations
+  - [The Basics of Logic Design][web21]
   - [Representations of Combinational Logic Circuits][web17]
   - [Combinational Logic Blocks][web19]
   - [Introduction to Synchronous Digital Systems][web16]
@@ -50,3 +50,4 @@
 [web18]: https://github.com/MicBrain/Great-Ideas-in-Computer-Architecture/wiki/CheckList_3
 [web19]: http://inst.eecs.berkeley.edu/~cs61c/resources/blocks.pdf
 [web20]: http://inst.eecs.berkeley.edu/~cs61c/resources/state.pdf
+[web21]: http://www.cs.colostate.edu/~malaiya/470/Appendix-C.pdf
