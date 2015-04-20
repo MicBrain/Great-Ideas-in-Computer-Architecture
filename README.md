@@ -53,4 +53,3 @@
 [web21]: http://www.cs.colostate.edu/~malaiya/470/Appendix-C.pdf
 
 
-
