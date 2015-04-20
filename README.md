@@ -52,4 +52,3 @@
 [web20]: http://inst.eecs.berkeley.edu/~cs61c/resources/state.pdf
 [web21]: http://www.cs.colostate.edu/~malaiya/470/Appendix-C.pdf
 
-
